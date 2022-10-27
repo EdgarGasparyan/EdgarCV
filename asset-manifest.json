@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/EdgarCV/static/css/main.73569033.css",
-    "main.js": "/EdgarCV/static/js/main.5179c155.js",
+    "main.js": "/EdgarCV/static/js/main.63efcb1b.js",
     "static/media/Edgar_CV.pdf": "/EdgarCV/static/media/Edgar_CV.8269282f9c441312ec33.pdf",
     "static/media/me-about.jpg": "/EdgarCV/static/media/me-about.4b46792db0c19d39aeed.jpg",
     "static/media/me.png": "/EdgarCV/static/media/me.97e516a211eaebe6b73a.png",
     "static/media/NWTASK.png": "/EdgarCV/static/media/NWTASK.947d4297eae6bb444e66.png",
     "static/media/Evitep.png": "/EdgarCV/static/media/Evitep.68ea93d4a86b9499e01c.png",
+    "static/media/ADVENTURE.jpg": "/EdgarCV/static/media/ADVENTURE.36deda2f500cec360b41.jpg",
     "static/media/slider.png": "/EdgarCV/static/media/slider.f5dfc0685558ba32dfcf.png",
+    "static/media/Solar-System.jpg": "/EdgarCV/static/media/Solar-System.177c01e6e3b1288958e4.jpg",
     "static/media/Responsive-layout.png": "/EdgarCV/static/media/Responsive-layout.2fa88ae21b17420e7e9f.png",
     "static/media/To_do_list.png": "/EdgarCV/static/media/To_do_list.1f9a9fa79c6b1320b355.png",
     "static/media/xplode.png": "/EdgarCV/static/media/xplode.b622ffa5739fa9603ee0.png",
@@ -17,10 +19,10 @@
     "static/media/Rondom-number.png": "/EdgarCV/static/media/Rondom-number.389d9a453542f98402b9.png",
     "index.html": "/EdgarCV/index.html",
     "main.73569033.css.map": "/EdgarCV/static/css/main.73569033.css.map",
-    "main.5179c155.js.map": "/EdgarCV/static/js/main.5179c155.js.map"
+    "main.63efcb1b.js.map": "/EdgarCV/static/js/main.63efcb1b.js.map"
   },
   "entrypoints": [
     "static/css/main.73569033.css",
-    "static/js/main.5179c155.js"
+    "static/js/main.63efcb1b.js"
   ]
 }
