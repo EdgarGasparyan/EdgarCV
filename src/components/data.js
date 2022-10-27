@@ -8,6 +8,8 @@ import Evitep from "../assets/Evitep.png";
 import To_do_list from "../assets/To_do_list.png";
 import Rondom_number from "../assets/Rondom-number.png";
 import xplode from "../assets/xplode.png";
+import ADVENTURE from "../assets/ADVENTURE.jpg"
+import Solar from "../assets/Solar-System.jpg"
 
 export const data = [
   {
@@ -80,4 +82,18 @@ export const data = [
     github: "https://github.com/EdgarGasparyan/xplode",
     demo: "http://edgargasparyan.github.io/xplode",
   },
+  {
+	id: 11,
+	image: ADVENTURE,
+	title: "Layout",
+	github: "https://github.com/EdgarGasparyan/ADVENTURE",
+	demo: "https://edgargasparyan.github.io/ADVENTURE",
+ },
+ {
+	id: 12,
+	image: Solar,
+	title: "Nasa API task",
+	github: "https://github.com/EdgarGasparyan/nasaTask",
+	demo: "https://edgargasparyan.github.io/nasaTask",
+ },
 ];
