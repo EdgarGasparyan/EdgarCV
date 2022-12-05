@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/EdgarCV/static/css/main.73569033.css",
-    "main.js": "/EdgarCV/static/js/main.63efcb1b.js",
-    "static/media/Edgar_CV.pdf": "/EdgarCV/static/media/Edgar_CV.8269282f9c441312ec33.pdf",
+    "main.js": "/EdgarCV/static/js/main.52f2dec1.js",
+    "static/media/Edgar_CV.pdf": "/EdgarCV/static/media/Edgar_CV.5964fe9c01186ed74168.pdf",
     "static/media/me-about.jpg": "/EdgarCV/static/media/me-about.4b46792db0c19d39aeed.jpg",
     "static/media/me.png": "/EdgarCV/static/media/me.97e516a211eaebe6b73a.png",
     "static/media/NWTASK.png": "/EdgarCV/static/media/NWTASK.947d4297eae6bb444e66.png",
@@ -19,10 +19,10 @@
     "static/media/Rondom-number.png": "/EdgarCV/static/media/Rondom-number.389d9a453542f98402b9.png",
     "index.html": "/EdgarCV/index.html",
     "main.73569033.css.map": "/EdgarCV/static/css/main.73569033.css.map",
-    "main.63efcb1b.js.map": "/EdgarCV/static/js/main.63efcb1b.js.map"
+    "main.52f2dec1.js.map": "/EdgarCV/static/js/main.52f2dec1.js.map"
   },
   "entrypoints": [
     "static/css/main.73569033.css",
-    "static/js/main.63efcb1b.js"
+    "static/js/main.52f2dec1.js"
   ]
 }
