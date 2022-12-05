@@ -42,6 +42,13 @@ const Experiance = () => {
 				<article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
+                <h4>Redux Toolkit</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+				<article className="experiance__details">
+              <BsPatchCheckFill className="experiance__details-icon" />
+              <div>
                 <h4>Bootstrap</h4>
                 <small className="text-light">Intermediate</small>
               </div>
@@ -84,42 +91,42 @@ const Experiance = () => {
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
                 <h4>Comunicative</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Experience</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
                 <h4>Time Managment</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Experience</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
                 <h4>Team Member</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Experience</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>Responcible</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Responsible</h4>
+                <small className="text-light">Experience</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
                 <h4>Detail Oriented</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Experience</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
                 <h4>Punctual</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Experience</small>
               </div>
             </article>
           </div>

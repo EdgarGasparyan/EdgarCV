@@ -40,7 +40,7 @@ const Contact = () => {
             <h4>Email</h4>
             <h5>edgar766522@gmail.com</h5>
             <a href="mailto:edgar766522@gmail.com" target="_blank">
-              Send a massage
+              Send a message
             </a>
           </article>
           <article className="contact__option">
@@ -51,7 +51,7 @@ const Contact = () => {
               href="https://wa.me/+37496766522"
               target="_blank"
             >
-              Send a massage
+              Send a message
             </a>
           </article>
           <article className="contact__option">
@@ -62,7 +62,7 @@ const Contact = () => {
               href="https://telegram.me/Edgar991"
               target="_blank"
             >
-              Send a massage
+              Send a message
             </a>
           </article>
         </div>
